@@ -11,6 +11,6 @@ A student from Germany ...
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=wilu2301&show_icons=true)
+![Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=1703&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
